@@ -23,9 +23,8 @@
 12. [🫡 Credits](#-credits)
 13. [📜 License](#-license)
 
-## 🚀 Motivation
-
-Link to parralel Clinic Repo : 
+## 🚀 Accompanied Clinic system
+Link to parallel Clinic Repo : https://github.com/Youssof-Kandil/El7a2ny-Clinic
 
 ## 🚀 Motivation
 
